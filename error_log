@@ -17,6 +17,3 @@
 [12-Jan-2020 10:37:35 UTC] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/icswebse/public_html/siyandamadjozi/system/libraries/Session/drivers/Session_files_driver.php on line 212
 [05-Feb-2020 11:34:53 UTC] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/icswebse/public_html/dev.icswebserver.co.za/system/libraries/Session/drivers/Session_files_driver.php on line 212
 [06-Feb-2020 10:54:04 UTC] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in /home/icswebse/public_html/dev.icswebserver.co.za/system/libraries/Session/drivers/Session_files_driver.php on line 212
-[10-Dec-2020 12:01:42 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/cashcir1/app.morichiescoinauction.cashcircling.com/application/controllers/Home.php on line 7
-[29-May-2021 15:38:39 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/cashcir1/app.morichiescoinauction.cashcircling.com/application/controllers/Demo.php on line 7
-[31-May-2021 06:52:52 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/cashcir1/app.morichiescoinauction.cashcircling.com/application/controllers/Demo.php on line 7

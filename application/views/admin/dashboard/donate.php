@@ -65,6 +65,8 @@ $date = date('H:i');
 
 if (($date > '16:30' && $date < '17:00') || ($date > '07:30' && $date < '08:30') ) {
 
+
+
 foreach ($help as $group) {
 // print_r( $help);
    // var_dump($group);
@@ -74,15 +76,10 @@ echo  ' <option value="'.$id.'">Amount R'.$group['dueamount']. ' - '.$group['ban
     //echo  'me';
 }
 
- 
+
 }else{
 
-
-   echo ' <option value="0">--NO COINS TO BID AT THIS TIME--</option>  ';
-
-
-
-
+    echo ' <option value="0">--NO COINS TO BID AT THIS TIME--</option>  ';
 }
 
 
@@ -110,7 +107,7 @@ echo  ' <option value="'.$id.'">Amount R'.$group['dueamount']. ' - '.$group['ban
                          <tr style="display: d;"> 
                 <td>Select Plan</td>
                 <td ><select id="period"  class="form-control" >
-  <option value="4" selected="selected">Plan - 4 Days</option>
+  <option value="3" selected="selected">Plan - 4 Days</option>
 
  
   
